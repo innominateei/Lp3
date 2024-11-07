@@ -17,3 +17,4 @@ def solve_knapsack():
 
 if __name__ =="__main__":
     solve_knapsack()
+# O(2^n) O(n)
