@@ -23,3 +23,5 @@ if __name__=="__main__":
     print("\nnon_recursive:")
     non_recursive(n)
     
+##recur O(2^n) O(n)
+## nonrecur O(n) O(1)
