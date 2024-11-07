@@ -18,3 +18,4 @@ def frac():
     print(f"the value is :{res}")
 if __name__ == "__main__":
     frac()
+# O(nlogn) O(n)
