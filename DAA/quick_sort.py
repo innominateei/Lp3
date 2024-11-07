@@ -60,3 +60,4 @@ def analyze_quick_sort():
 
 # Run the analysis
 analyze_quick_sort()
+# O(nlogn) O(n2) O(log n) O(n)
