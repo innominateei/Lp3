@@ -38,3 +38,4 @@ def n_queens(n):
 
 if __name__ == "__main__":
     n_queens(8)
+# O(n!) O(n) O(kxn^2)
