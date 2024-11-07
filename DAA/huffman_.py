@@ -32,4 +32,5 @@ print("----------------------")
 for char, huffman_code in huff:
     print(f" {char} | {huffman_code}")
 
-    
+    # O(n+klogk) O(k)
+
